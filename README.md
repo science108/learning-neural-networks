@@ -1,4 +1,5 @@
-# My journey with learing neural networks and contribute to building ethical AGI
+# My journey with learing neural networks 
+# and contribute to building ethical AGI
 
 My goal is to contribute to making ethical AGI with best minds to help humanity build a better world.
 
@@ -19,6 +20,8 @@ In all AI chaos and debates whether AI can become conscious or not i had in mind
 So following my passion and curiosity i wanted to understand how neural networks indeed made computers look more smarter than simple 0, 1's.
 
 So i started to learn neural networks from scratch. I started by learning the course of Andrey Karpathy from OpenAI (10h available on Youtube) where I learned 
+
+nn_manually.ipynb
 
    1. How to mathematicaly represent a single neuron in Python.
    2. How to manualy calculate backpropagation from the output back to the inputs with the chain derivative rule.
