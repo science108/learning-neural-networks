@@ -18,9 +18,7 @@ simple calculations like addition and subtraction but very very fast - like bill
 # 2 Understanding Neural networks
 In all AI chaos and debates whether AI can become conscious or not i had in mind a piece of sand and transistors stack together.
 So following my passion and curiosity i wanted to understand how neural networks indeed made computers look more smarter than simple 0, 1's 
-and what's the math behind it ? After digging a bit more i understood its still simple operations mixed with statistics but this time on a much bigger amount od numbers 
-organised in an construct called tensors to make it faster for computer to digest. 
-
+and what's the math behind it ? 
 So i started to learn neural networks from scratch. I started by learning the course of Andrey Karpathy from OpenAI (10h available on Youtube) where I learned 
 
 nn_manually.ipynb
@@ -31,6 +29,11 @@ nn_manually.ipynb
    4. and from it build up a multilayer neural networks using tensors.
    5. ....TBC
 
+
+After learning that understood it's still simple operations mixed with statistics (which is still at the end simple 
+operations but based on smart mathematical concepts and equations) but this time on a much bigger amount od numbers 
+organised in an construct called tensors to make it faster for computer to digest. 
+Still primitive yet in a smarter way.
 
 # 3 Understanding Quantum physics and fundamental laws
 I did master degree in Physics
