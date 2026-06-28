@@ -1,4 +1,18 @@
-# Projekt do nauki sieci neuronowych
+# This is the project describing my journey with learing neural networks
+
+My goal is to contribute to making ethical AGI with best minds to help humanity build a better world.
+
+First I studied microelectronics to learn how hardware and microchips are made.
+
+From simple sand to complex CPU architectures I learned how code is executed down to the transistor atom.
+
+To further build up my technology understanding i started to learn neural networks from scratch.
+
+I started by learning the course of Andrey Karpathy from OpenAI where I learned how to built my own ChatGPT from scratch.
+
+I learned how to mathematicaly express single neuron and from it build up a multilayer neural networks using tensors.
+
+
 
 To jest projekt w Pythonie do nauki podstaw sieci neuronowych z PyTorch.
 
