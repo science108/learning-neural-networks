@@ -1,4 +1,4 @@
-# My journey with learing neural networks 
+# My journey with learing neural networks from scratch
 # and contribute to building ethical AGI
 
 My goal is to contribute to making ethical AGI with best minds to help humanity build a better world.
