@@ -33,7 +33,10 @@ nn_manually.ipynb
 After learning that understood it's still simple operations mixed with statistics (which is still at the end simple 
 operations but based on smart mathematical concepts and equations) but this time on a much bigger amount od numbers 
 organised in an construct called tensors to make it faster for computer to digest. 
-Still primitive yet in a smarter way.
+Still primitive, just more numbers, more operations, faster and in a smarter way.
+The more training data to teach the network You have the better result You get.
+
+Any signs of consciousness ? So far better camuflage i would say. 
 
 # 3 Understanding Quantum physics and fundamental laws
 I did master degree in Physics
