@@ -2,16 +2,21 @@
 
 My goal is to contribute to making ethical AGI with best minds to help humanity build a better world.
 
+I ask myself a question whether humanity can actually mimic the biological intelligence and human consciousness. 
+If Yes to what extend ? What will be achieved "error" factor in regarding to the original human consciousness which created it ?
+If the influence of the consciousness on the matter is proven could the articifial consciousness create 
+new realities or just pretend that it's something more than a piece of wires and code.
+
 # 1 Understanding hardware + software
 First I studied microelectronics to learn how hardware and microchips are made.
 From simple sand to complex CPU architectures I learned how code is executed down to the transistor atom.
 Above the original 0 and 1's language of the computer I also learned the computer languages like Assembly, C, C++, Ada, Python. 
-I undertstood that computers are actually very stupid but pretend to be smart by doing very 
+I undertstood that computers are actually very primitive but pretend to be smart by doing very 
 simple calculations like addition and subtraction but very very fast - like billions of operations per seccond fast.
 
 # 2 Understanding Neural networks
 In all AI chaos and debates whether AI can become conscious or not i had in mind a piece of sand and transistors stack together.
-Following my passion and curiosity i wanted to understand how neural networks indeed made computers look more smarter than simple 0, 1's.
+So following my passion and curiosity i wanted to understand how neural networks indeed made computers look more smarter than simple 0, 1's.
 
 So i started to learn neural networks from scratch. I started by learning the course of Andrey Karpathy from OpenAI (10h available on Youtube) where I learned 
 
