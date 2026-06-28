@@ -17,7 +17,9 @@ simple calculations like addition and subtraction but very very fast - like bill
 
 # 2 Understanding Neural networks
 In all AI chaos and debates whether AI can become conscious or not i had in mind a piece of sand and transistors stack together.
-So following my passion and curiosity i wanted to understand how neural networks indeed made computers look more smarter than simple 0, 1's.
+So following my passion and curiosity i wanted to understand how neural networks indeed made computers look more smarter than simple 0, 1's 
+and what's the math behind it ? After digging a bit more i understood its still simple operations mixed with statistics but this time on a much bigger amount od numbers 
+organised in an construct called tensors to make it faster for computer to digest. 
 
 So i started to learn neural networks from scratch. I started by learning the course of Andrey Karpathy from OpenAI (10h available on Youtube) where I learned 
 
